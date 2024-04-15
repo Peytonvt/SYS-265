@@ -1,1 +1,1 @@
-MGMT01-PEYTON
+hostname
